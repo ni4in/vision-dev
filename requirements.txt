@@ -1,0 +1,5 @@
+python-socketio
+python-socketio[client]
+eventlet
+keyboard
+opencv-python
